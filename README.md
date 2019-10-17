@@ -2,6 +2,10 @@
 
 Welcome to the hack-a-drone WS!
 
+![alt text](assets/raspberry.jpg "pi")
+
+![alt text](assets/Parrot-AR-Drone-2.0.jpg "drone")
+
 ## Getting Started
 
 ### Booting the Pi
