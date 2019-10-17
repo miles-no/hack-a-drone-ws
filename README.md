@@ -6,7 +6,7 @@ Welcome to the hack-a-drone WS!
 
 ### Booting the Pi
 
-First we need to insert the SD-card from which the Pi's will load the OS (NOOBS with Raspbian). The card slot is found on the back of the Pi's (opposite of the USB-ports).
+First we need to insert the SD-card from which the Pi's will load the OS (NOOBS/Raspbian). The card slot is found on the back of the Pi's (opposite of the USB-ports).
 
 The simplest way to power the Pi is through the usb-micro port. Insert the provided USB-cable into your computer, or external power supply*, and the Pi.
 
@@ -37,7 +37,7 @@ In your favorite Terminal type:
 
 ```
 
-Hopefully you'll get prompted to accept the SSH keys and eventually the password for login in. (default is 'pi')
+Hopefully you'll get prompted to accept the Pi as a known host and eventually asked for the password to login in. (default is 'raspberry')
 
 ```
 ᐅ ssh pi@raspberrypi.local

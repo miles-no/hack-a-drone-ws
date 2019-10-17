@@ -47,11 +47,11 @@ pi@raspberrypi:~ $ cd drone-hack
 
 ```
 
-Use your favorite terminal based editor (vim/nano etc) and create a file called button.py (or give it any other name you see fit)
+Use your favorite terminal based editor (vim/nano etc) and create a file called step1.py (or give it any other name you see fit)
 
 ``` bash
 
-pi@raspberrypi:~/drone-hack $ nano button.py
+pi@raspberrypi:~/drone-hack $ nano step1.py
 
 ```
 
@@ -61,7 +61,7 @@ Run the program and try pushing the button. The led should light up and the prog
 
 ``` bash 
 
-pi@raspberrypi:~/drone-hack $ python3 button.py 
+pi@raspberrypi:~/drone-hack $ python3 step1.py 
 Button Pressed...
 
 ```
