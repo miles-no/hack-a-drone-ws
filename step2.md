@@ -20,6 +20,20 @@ pi@raspberrypi:~/drone-hack $ nano step2.py
 
 ```
 
+Save it! Run the new program, and try pushing both buttons to verify that it works.
+
+``` bash 
+
+pi@raspberrypi:~/drone-hack $ python3 step2.py 
+Button 1 Pressed...
+....
+Button 2 Pressed...
+
+```
+
+## If it works...
+
+Give your selves a pat on the back, and move on to the [step 3](step3.md).
 
 #### codezz
 

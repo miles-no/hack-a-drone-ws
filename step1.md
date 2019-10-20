@@ -33,7 +33,7 @@ Once done head over to your favorite terminal again and connect to the Pi.
 
 ## Deploy/Run/Test
 
-Connected to the Pi and run the following command to create a folder for the src files.
+Connect to the Pi and run the following command to create a folder for the src files.
 
 ``` bash
 
