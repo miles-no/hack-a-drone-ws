@@ -48,7 +48,7 @@ id
 ![alt text](assets/id.png "id")
 
 
-Awesome, the drone is running linux and we even have root access! At this point we could simply issue a `shutdown now` and watch the drone fall down, and that's exactly what we'll do in the final step!
+Awesome, the drone is running linux and we even have root access! At this point we could simply issue a `shutdown now` and watch the drone fall down, and that's exactly what we'll do in the [final step](step4.md)!
 
 
 
